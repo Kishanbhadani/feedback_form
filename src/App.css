@@ -1,0 +1,31 @@
+.container{
+  text-align: center;
+  color: whitesmoke;
+  background-color: darkslategrey;
+}
+
+.detail-box{
+  margin: 9px auto;
+}
+
+.btn{
+  color: white;
+  background-color: gray;
+  width: 40%;
+  float: right;
+  margin-left: 60%;
+}
+
+.page{
+  margin-top: 40px;
+  font-size: 10px;
+  text-align: center;
+}
+.page1{
+  background-color: gray;
+  padding: 3px;
+  height: 12px;
+  width: 15px;
+  border-radius: 50%;
+  color: white;
+}
